@@ -1,0 +1,6 @@
+body { font-family: sans-serif; background: #f4f4f4; margin: 0; padding: 0; color: #333; }
+header { background: #222; color: #fff; padding: 1rem; }
+header nav a { color: #fff; margin: 0 10px; text-decoration: none; }
+main { padding: 1rem; }
+ul { list-style: none; padding: 0; }
+ul li { background: #fff; margin: 10px 0; padding: 10px; border-radius: 5px; }
